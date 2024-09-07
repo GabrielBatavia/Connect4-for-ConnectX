@@ -1,5 +1,8 @@
 # Connect4-for-ConnectX
 
+![image](https://github.com/user-attachments/assets/0d295cff-4ab0-4d15-8f98-b2fcbaeb2648)
+
+
 ## Connect 4: Python Simulation with Random Agents
 
 This repository contains a simple simulation of the classic **Connect 4** game implemented in Python. Two random agents take turns to play the game, and the board is visualized after each move. The game ends when one of the players connects four pieces horizontally, vertically, or diagonally.
