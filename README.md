@@ -1,6 +1,6 @@
 # Connect4-for-ConnectX
 
-![image](https://github.com/user-attachments/assets/0d295cff-4ab0-4d15-8f98-b2fcbaeb2648)
+![image](https://github.com/user-attachments/assets/253c58a3-f827-467a-bb77-6da7f93e66aa)
 
 
 ## Connect 4: Python Simulation with Random Agents
